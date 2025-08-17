@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hi, I'm Mert Cansın 👋
 
 **Software Developer — ERP & Automation**  
@@ -32,7 +32,7 @@ ASP.NET Core • C# • MSSQL • PostgreSQL • Entity Framework • MVC
 - 📧 Email: m.cansinsen@gmail.com
 - 📍 Location: Kocaeli, Turkey (open to remote)
 
----
+
 *Building reliable software, one commit at a time 🚀*
 
--->
+
